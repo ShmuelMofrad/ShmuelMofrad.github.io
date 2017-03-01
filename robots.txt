@@ -1,3 +1,0 @@
-Sitemap: http://samuel.unus.one/sitemap.xml
-User-Agent: *
-Allow: /
